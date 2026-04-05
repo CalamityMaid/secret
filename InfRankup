@@ -1,0 +1,2 @@
+_G.ScriptKey = "" -- Replace with your valid syscure key.
+loadstring(game:HttpGet("https://auth.syscure.vip/obf/26d569e2d3fc1d97ac531b2d5f555787.lua"))()
